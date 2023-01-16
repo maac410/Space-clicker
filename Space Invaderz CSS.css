@@ -1,0 +1,8 @@
+.Ship{
+    margin:auto;
+    height: 50px;
+    width: 100px;
+    transition: transform 0.0s;
+    transition-timing-function: linear;
+
+}

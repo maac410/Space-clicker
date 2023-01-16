@@ -1,0 +1,25 @@
+{
+  "name": "space-clicker",
+  "version": "1.0.0",
+  "description": "Is a clicker in Space\r Hello",
+  "main": "ClickerJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "npm run lite",
+      "lite" : "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maac410/Space-clicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maac410/Space-clicker/issues"
+  },
+  "homepage": "https://github.com/maac410/Space-clicker#readme",
+  "devDependencies": {
+    "lite-server": "1.0"
+  }
+}

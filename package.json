@@ -4,10 +4,9 @@
   "description": "Is a clicker in Space\r Hello",
   "main": "ClickerJs.js",
   "scripts": {
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "npm run lite",
-      "lite" : "lite-server"
-
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,6 @@
   },
   "homepage": "https://github.com/maac410/Space-clicker#readme",
   "devDependencies": {
-    "lite-server": "1.0"
+    "lite-server": "^2.6.1"
   }
 }

@@ -1,12 +1,12 @@
-var clciks = 0;
-var currentUpgrade = 1;
-var upgradeCost = 10;
-var buttonOnOff = false;
+let clciks = 0;
+let currentUpgrade = 1;
+let upgradeCost = 10;
+let buttonOnOff = false;
 
-var Cookie = document. getElementById("cookie");
-var js = document. getElementById("Upgrade");
-var js2 = document.getElementById("upgrade");
-var js3 = document.getElementById("upgrade cost");
+let Cookie = document. getElementById("cookie");
+let js = document. getElementById("Upgrade");
+let js2 = document.getElementById("upgrade");
+let js3 = document.getElementById("upgrade cost");
 
 function button(){
 

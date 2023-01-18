@@ -50,3 +50,4 @@ function upGrade() {
   js.addEventListener("click", button);
 
 }
+console.log("it works")

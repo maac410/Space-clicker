@@ -1,14 +1,16 @@
 body{
-  background-image: url("Assets/Sprites/galaxy-pixel-art.gif");
+  background-image: url("../../Assets/Sprites/galaxy-pixel-art.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .button {
     height:250px;
     width:250px;
-    background-color: #000000;
+    background-color: #3c005365;
     border-style: dashed 2px;
-    border-color: gray;
-    box-shadow: 0px 10px 8px  #570000;
+    border-color: rgb(24, 0, 24);
+    box-shadow: 0px 10px 8px  #150016;
     color: white;
     display: inline-block;
     text-align: center;
@@ -62,6 +64,7 @@ body{
 .Uptext2{
  
   color: rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.5);
   padding: 10px 10px;
   text-align: center;
   text-decoration: none;

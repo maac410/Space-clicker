@@ -1,3 +1,12 @@
+canvas {
+    border:1px solid #ffffff;
+    color: rgb(255, 0, 0);
+    height: 400;
+    width: 100;
+    position:relative;
+    left: 40%;
+}
+
 .Ship{
     margin:auto;
     height: 50px;

@@ -15,3 +15,7 @@ canvas {
     transition-timing-function: linear;
 
 }
+
+.alien{
+    content: url("../../Assets/Sprites/Alien.png");
+}
